@@ -19,16 +19,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+
 }
 
 -(void) selectedStockName:(NSString *) name{
     self.stockNameLabel.text = name;
 }
 
-//-(void) selectedStockName:(NSObject *) name{
-//    self.stockNameLabel.text = [NSString stringWithFormat:@"", name];
-//    
-//}
 
 
 @end

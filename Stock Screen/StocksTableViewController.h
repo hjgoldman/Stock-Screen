@@ -12,7 +12,6 @@
 @protocol StockDelegate <NSObject>
 
 -(void) selectedStockName:(NSString *) name;
-//-(void) selectedStockName:(NSObject *) name;
 
 @end
 
