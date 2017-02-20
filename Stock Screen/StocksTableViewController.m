@@ -54,7 +54,6 @@
     [stocks addObject:stock5];
     [stocks addObject:stock6];
     [stocks addObject:stock7];
-    
 
 }
 
